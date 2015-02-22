@@ -14,7 +14,6 @@
 		5BA542721A8A8C4900432ABB /* HappinessTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA542711A8A8C4900432ABB /* HappinessTests.swift */; };
 		5BA5427C1A8A8D3600432ABB /* HappinessViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA5427B1A8A8D3600432ABB /* HappinessViewController.swift */; };
 		5BA5427E1A8A8DFC00432ABB /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BA5427D1A8A8DFC00432ABB /* FaceView.swift */; };
-		5BA542801A8AC17400432ABB /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 5BA5427F1A8AC17400432ABB /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -220,7 +219,6 @@
 			files = (
 				5BA5427C1A8A8D3600432ABB /* HappinessViewController.swift in Sources */,
 				5BA5425C1A8A8C4900432ABB /* AppDelegate.swift in Sources */,
-				5BA542801A8AC17400432ABB /* README.md in Sources */,
 				5BA5427E1A8A8DFC00432ABB /* FaceView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -415,6 +413,7 @@
 				5BA542771A8A8C4900432ABB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5BA542781A8A8C4900432ABB /* Build configuration list for PBXNativeTarget "HappinessTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +422,7 @@
 				5BA5427A1A8A8C4900432ABB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
